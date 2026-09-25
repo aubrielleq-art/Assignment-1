@@ -5,4 +5,4 @@
 <img
   class="fit-picture"
   src="https://www.jetimmigration.ca/wp-content/uploads/2020/11/collage-canada-province.jpg"
-  alt="Canada cities"/>
+  alt="Canada cities" width="500"/>
