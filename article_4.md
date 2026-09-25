@@ -5,4 +5,4 @@
 <img
   class="fit-picture"
   src="https://calgaryhomes.ca/uploads/agent-1/loft-bedroom.jpg"
-  alt="loft bedroom" />
+  alt="loft bedroom" width="500"/>
