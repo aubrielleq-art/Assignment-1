@@ -6,4 +6,4 @@ I've been really happy with how it's performed for me as well.
 <img
   class="fit-picture"
   src="https://images.cars.com/cldstatic/wp-content/uploads/volvo-xc60-2026-exterior-oem-01.jpg"
-  alt="Volvo XC60"/>
+  alt="Volvo XC60" width= height=500 />
