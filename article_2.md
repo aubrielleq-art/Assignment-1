@@ -6,4 +6,4 @@ I'm always learning even if I'm no longer in school.</body>
 <img
   class="fit-picture"
   src="https://www.wlu.ca/about/discover-laurier/strategic-initiatives/assets/images/one-market-downtown-brantford-sunrise.jpg"
-  alt="Laurier Brantford One Market" />
+  alt="Laurier Brantford One Market" width="500" />
